@@ -1,4 +1,4 @@
-PROJ_NAME = Water_Tank
+PROJ_NAME = Water_Level
 
 BUILD_DIR = Build
 
