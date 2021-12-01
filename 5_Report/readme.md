@@ -45,3 +45,19 @@ This project is controled by atmega328.
 | ID | DESCRIPTION | Status |
 | ------ | ------ | ------ |
 | 1 |If low level switch open before uplevel the water won't fill in tank| IMPLEMENTED |
+
+# DESIGN
+## BEHAVIOURAL
+## HIGH LEVEL
+![highlevel drawio](https://user-images.githubusercontent.com/94223235/144302633-e58d5546-b874-40e9-b42f-d83cb8024adc.png)
+## LOW LEVEL
+![lowlevel drawio](https://user-images.githubusercontent.com/94223235/144302721-9871c283-f613-4420-9326-1c9fded741e3.png)
+## STRUCTURAL
+## HIGH LEVEL
+![highlevel1 drawio](https://user-images.githubusercontent.com/94223235/144302851-6986fc90-4e3f-492c-8a3c-6978fd780ca0.png)
+## LOW LEVEL
+![lowlevel1 drawio](https://user-images.githubusercontent.com/94223235/144303003-932ab45f-60c4-45a1-9a86-2cb763672669.png)
+
+
+
+
